@@ -1,0 +1,1 @@
+DELETE FROM "WCC" WHERE points = 0;
